@@ -4,7 +4,7 @@ package dcll.esup;
  * Hello world!
  *
  */
-public class App 
+public class SimpleStack
 {
     public static void main( String[] args )
     {
